@@ -1,0 +1,22 @@
+{
+    "name": "sobit/hybridauth-component",
+    "description": "Component for Yii Framework based application which provides simple configuration interface for HybridAuth library.",
+    "homepage": "https://github.com/sobit/hybridauth-component",
+    "keywords": ["sobit", "yii", "hybridauth", "component"],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Sobit Akhmedov",
+            "email": "sobit.akhmedov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii": "1.1.*",
+        "hybridauth/hybridauth": "3.0.0.*@dev"
+    },
+    "autoload": {
+        "psr-0": { "HybridAuthComponent": "" }
+    }
+}
