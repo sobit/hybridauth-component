@@ -63,4 +63,4 @@ $userContacts = $twitter->getUserContacts();
 ```
 
 [1]: https://github.com/yiisoft/yii "Yii Framework"
-[2]: https://github.com/swiftmailer/swiftmailer "Swift Mailer"
+[2]: https://github.com/hybridauth/hybridauth "HybridAuth"
